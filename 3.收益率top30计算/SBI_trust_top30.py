@@ -52,7 +52,7 @@ def from_db_fetch_last_to30(code):
 
     df_js_f = pd.read_sql_query('select {0} from SBI_trust_daily_dt; '.format(code), engine_Lynne_Mons)
     last_one = df_js_f.values.tolist()[-1][0].split()[0]
-    minus30_one = df_js_f.values.tolist()[-9][0].split()[0]
+    minus30_one = df_js_f.values.tolist()[-11][0].split()[0]
     earning_rate =round((int(last_one)-int(minus30_one))/int(minus30_one),4)
     return earning_rate
 
@@ -81,6 +81,9 @@ def readjsonfile(filename):
 def takeSecond(elem):
     return elem[1]
 
+def writeinto_jsonfile(filename,list_data):
+    with open(filename, 'w', encoding='utf-8') as fw:
+        json.dump(list_data, fw, indent=4, ensure_ascii=False)
 
 if __name__== "__main__":
     resultjson = readjsonfile("sbi_trust.json")
@@ -104,15 +107,22 @@ if __name__== "__main__":
 
 
 
-    for i1,i2,i3,i4,i5,i6 in zip(sbi_trust_code,result_R,result_title,result_fee,result_last_day,result_firm):
-        all_result.append([i1,i2,i3,i4,i5,i6])
+    for i1,i2,i3,i4,i5,i6,i7 in zip(sbi_trust_code,result_R,result_title,result_fee,result_last_day,result_firm,result_url):
+        all_result.append([i1,i2,i3,i4,i5,i6,i7])
     all_result.sort(key=takeSecond,reverse=True)
     filename = datetime.datetime.now().strftime('%Y-%m-%d')
     three_table_title = ["sbi_trust_code", "ER", "title", "fee", "last_day","firm"]
-    writeinto_detail("sbi_trust_top50_{0}.csv".format(filename), three_table_title)
-    for item in all_result[:50]:
-        writeinto_detail("sbi_trust_top50_{0}.csv".format(filename), item)
-        print(item)
-    print(result_url)
+    writeinto_detail("sbi_trust_top30_{0}.csv".format(filename), three_table_title)
+
+    sbi_trustUrl_top30 = []
+    for item in all_result[:30]:
+        sbi_trustUrl_top30.append(item[-1])
+        print(item[0],item[1],item[2],item[4])
+        writeinto_detail("sbi_trust_top30_{0}.csv".format(filename), item[:-1])
+    top30_json_list = []
+    for json_item in resultjson:
+        if json_item["url"] in sbi_trustUrl_top30:
+            top30_json_list.append(json_item)
+    writeinto_jsonfile("top30_sbi_trust.json",top30_json_list)
 
 

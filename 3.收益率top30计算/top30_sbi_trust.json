@@ -1,113 +1,83 @@
 [
     {
-        "title": "ＳＢＩ－ＳＢＩ",
-        "firm": "ＳＢＩアセットマネジメント",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "8931317C",
-        "fee": "0.968%",
-        "last_day": "2023/12/05",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=28931317C&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "大和－ＮＡＳＤＡＱ１００",
-        "firm": "大和アセットマネジメント",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "0431720A",
-        "fee": "通常時1.52375％以内／安定運用時0.088％",
-        "last_day": "2023/10/20",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20431720A&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "楽天－楽天日本株４．３倍ブル",
-        "firm": "楽天投信投資顧問",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "9I31115A",
-        "fee": "1.243%",
-        "last_day": "2025/06/13",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=29I31115A&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "三井住友ＤＳ－グローバルＡＩファンド（予想分配金提示型）",
+        "title": "ファイブスター－ベトナム・ロータス・ファンド",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=27931419A&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=2AB311171&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "Ｔ＆Ｄ－Ｓ＆Ｐ５００・４倍ブル型ファンド",
-        "firm": "Ｔ＆Ｄアセットマネジメント",
-        "type": "株式ブル型",
+        "title": "ブラックロック－ｉシェアーズ",
+        "firm": "ブラックロック・ジャパン",
+        "type": "コモディティ",
         "strategy": "null",
-        "community_code": "10311222",
-        "fee": "1.243％",
-        "last_day": "2025/02/17",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=210311222&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "大和－ｉＦｒｅｅＮＥＸＴ",
-        "firm": "null",
-        "type": "null",
-        "strategy": "null",
-        "community_code": "null",
-        "fee": "null",
-        "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204311181&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "三井住友ＤＳ－グローバルＡＩファンド",
-        "firm": "null",
-        "type": "null",
-        "strategy": "null",
-        "community_code": "null",
-        "fee": "null",
-        "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=279311169&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "楽天－楽天日本株トリプル・ブル",
-        "firm": "楽天投信投資顧問",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "9I311096",
-        "fee": "1.023%",
-        "last_day": "2025/06/13",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=29I311096&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "大和－ｉＦｒｅｅレバレッジ",
-        "firm": "大和アセットマネジメント",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "04314208",
-        "fee": "1.275％以内",
+        "community_code": "4831L139",
+        "fee": "1.0085%程度",
         "last_day": "無期限",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204314208&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=24831L139&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "日興－デジタル・トランスフォーメーション株式ファンド",
-        "firm": "日興アセットマネジメント",
-        "type": "国際株式・グローバル・含む日本（F）",
+        "title": "三菱ＵＦＪ国際－ｅＭＡＸＩＳ",
+        "firm": "三菱ＵＦＪ国際投信",
+        "type": "国際株式・エマージング・複数国（F)",
         "strategy": "null",
-        "community_code": "02311207",
-        "fee": "1.7985％",
-        "last_day": "2030/06/07",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=202311207&int_fd=fund:psearch:search_result"
+        "community_code": "0331C177",
+        "fee": "0.187%以内",
+        "last_day": "無期限",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331C177&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "日興－グローバル・フィンテック株式ファンド（年２回決算型）",
+        "title": "ＵＢＳ－ＵＢＳ原油先物ファンド",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=202312179&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=250311092&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "キャピタル－ベトナム成長株インカムファンド",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=29A311148&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "大和－ベトナム株ファンド",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20431216C&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "三菱ＵＦＪ国際－ベイリー・ギフォード世界長期成長株ファンド",
+        "firm": "三菱ＵＦＪ国際投信",
+        "type": "国際株式・グローバル・除く日本（F）",
+        "strategy": "null",
+        "community_code": "03311191",
+        "fee": "1.6445%程度",
+        "last_day": "2039/01/25",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=203311191&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "三菱ＵＦＪ国際－三菱ＵＦＪ",
+        "firm": "三菱ＵＦＪ国際投信",
+        "type": "国際債券・北米（F）",
+        "strategy": "null",
+        "community_code": "0331E13A",
+        "fee": "1.815%",
+        "last_day": "2023/10/11",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331E13A&int_fd=fund:psearch:search_result"
     },
     {
         "title": "キャピタル－世界シェールガス株ファンド",
@@ -120,54 +90,54 @@
         "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=29A311128&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "三菱ＵＦＪ国際－ｅＭＡＸＩＳ",
+        "title": "三菱ＵＦＪ国際－ｅＭＡＸＩＳ新興国株式インデックス",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=203313215&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331809A&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "日興－グローバル・フィンテック株式ファンド",
-        "firm": "日興アセットマネジメント",
-        "type": "国際株式・グローバル・含む日本（F）",
-        "strategy": "null",
-        "community_code": "0231116C",
-        "fee": "1.925%",
-        "last_day": "2026/12/07",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20231116C&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "三井住友ＴＡＭ－ＳＭＴ",
-        "firm": "null",
-        "type": "null",
-        "strategy": "null",
-        "community_code": "null",
-        "fee": "null",
-        "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=26431218A&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "ＳＢＩ－ＳＢＩ・ＧＳ",
+        "title": "ＳＢＩ－ＳＢＩ・中国Ａ株インデックス・ファンド",
         "firm": "ＳＢＩアセットマネジメント",
-        "type": "国際株式・北米（F）",
+        "type": "国際株式・中国（F）",
         "strategy": "null",
-        "community_code": "89313218",
-        "fee": "0.48％程度",
+        "community_code": "89311217",
+        "fee": "0.4138％程度",
         "last_day": "無期限",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=289313218&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=289311217&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "日興－デジタル・トランスフォーメーション株式ファンド（予想分配金提示型）",
-        "firm": "日興アセットマネジメント",
+        "title": "野村－野村ブル・ベア",
+        "firm": "野村アセットマネジメント",
+        "type": "債券ベア型",
+        "strategy": "null",
+        "community_code": "01314203",
+        "fee": "1.155％",
+        "last_day": "2023/03/15",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=101314203&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "大和－ｉＦｒｅｅＡｃｔｉｖｅ",
+        "firm": "大和アセットマネジメント",
         "type": "国際株式・グローバル・含む日本（F）",
         "strategy": "null",
-        "community_code": "02311215",
-        "fee": "1.7985％",
-        "last_day": "2030/06/07",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=202311215&int_fd=fund:psearch:search_result"
+        "community_code": "04314181",
+        "fee": "1.221%",
+        "last_day": "2028/01/28",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204314181&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "日興－深セン・イノベーション株式ファンド（１年決算型）",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20231217B&int_fd=fund:psearch:search_result"
     },
     {
         "title": "三菱ＵＦＪ国際－ｅＭＡＸＩＳ",
@@ -180,14 +150,44 @@
         "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=203312215&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "三菱ＵＦＪ国際－米国ＩＰＯニューステージ・ファンド＜為替ヘッジなし＞資産成長型",
+        "title": "Ｔ＆Ｄ－Ｔ＆Ｄ",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331319B&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=210311202&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "ベアリングス－アジア未来成長株式ファンド",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=233311963&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "ＪＰＭ－ＪＰＭアジア株・アクティブ・オープン",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=21731798B&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "Ｏｎｅ－ＤＩＡＭベトナム株式ファンド",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=247311156&int_fd=fund:psearch:search_result"
     },
     {
         "title": "大和－ｉＦｒｅｅレバレッジ",
@@ -200,44 +200,34 @@
         "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20431B214&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "大和－テーマレバレッジ",
-        "firm": "大和アセットマネジメント",
-        "type": "株式ブル型",
+        "title": "野村－野村ブル・ベア",
+        "firm": "野村アセットマネジメント",
+        "type": "為替ブル型",
         "strategy": "null",
-        "community_code": "04313215",
-        "fee": "1.4055％程度",
-        "last_day": "2026/03/27",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204313215&int_fd=fund:psearch:search_result"
+        "community_code": "01315203",
+        "fee": "1.122％",
+        "last_day": "2023/03/15",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=101315203&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "三菱ＵＦＪ国際－米国ＩＰＯニューステージ・ファンド＜為替ヘッジなし＞年２回決算型",
+        "title": "ＪＰＭ－ＪＰＭアジア・成長株・ファンド",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331419B&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=217311917&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "大和－ｉＦｒｅｅＮＥＸＴ",
-        "firm": "null",
-        "type": "null",
+        "title": "三菱ＵＦＪ国際－三菱ＵＦＪ",
+        "firm": "三菱ＵＦＪ国際投信",
+        "type": "国際債券・北米（F）",
         "strategy": "null",
-        "community_code": "null",
-        "fee": "null",
-        "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204312217&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "大和－ｉＦｒｅｅレバレッジ",
-        "firm": "大和アセットマネジメント",
-        "type": "株式ブル型",
-        "strategy": "null",
-        "community_code": "04312212",
-        "fee": "1.169％程度",
-        "last_day": "無期限",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204312212&int_fd=fund:psearch:search_result"
+        "community_code": "0331713A",
+        "fee": "1.815%",
+        "last_day": "2023/10/11",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=20331713A&int_fd=fund:psearch:search_result"
     },
     {
         "title": "大和－テーマレバレッジ",
@@ -260,43 +250,53 @@
         "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=204315213&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "Ｏｎｅ－Ｏｎｅフォーカス",
+        "title": "ＳＢＩ－ＳＢＩ中国テクノロジー株ファンド",
         "firm": "null",
         "type": "null",
         "strategy": "null",
         "community_code": "null",
         "fee": "null",
         "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=247312201&int_fd=fund:psearch:search_result"
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=289312203&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "ＳＢＩ－ＳＢＩ・ＧＳ",
-        "firm": "ＳＢＩアセットマネジメント",
-        "type": "国際株式・北米（F）",
+        "title": "三井住友ＤＳ－三井住友・ニュー・チャイナ・ファンド",
+        "firm": "null",
+        "type": "null",
         "strategy": "null",
-        "community_code": "89311218",
-        "fee": "0.48％程度",
-        "last_day": "無期限",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=289311218&int_fd=fund:psearch:search_result"
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=27931C01A&int_fd=fund:psearch:search_result"
     },
     {
-        "title": "ＳＢＩ－ＳＢＩ・ＧＳ",
-        "firm": "ＳＢＩアセットマネジメント",
+        "title": "Ｏｎｅ－たわらノーロード",
+        "firm": "アセットマネジメントＯｎｅ",
+        "type": "国際株式・エマージング・複数国（F)",
+        "strategy": "null",
+        "community_code": "47311163",
+        "fee": "0.374%以内",
+        "last_day": "無期限",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=247311163&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "ＨＳＢＣ－ＨＳＢＣ",
+        "firm": "null",
+        "type": "null",
+        "strategy": "null",
+        "community_code": "null",
+        "fee": "null",
+        "last_day": "null",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=251311021&int_fd=fund:psearch:search_result"
+    },
+    {
+        "title": "三菱ＵＦＪ国際－ベイリー・ギフォード世界長期成長株ファンド（予想分配金提示型）",
+        "firm": "三菱ＵＦＪ国際投信",
         "type": "国際株式・グローバル・含む日本（F）",
         "strategy": "null",
-        "community_code": "89312218",
-        "fee": "0.48％程度",
-        "last_day": "無期限",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=289312218&int_fd=fund:psearch:search_result"
-    },
-    {
-        "title": "三菱ＵＦＪ国際－ｅＭＡＸＩＳ",
-        "firm": "null",
-        "type": "null",
-        "strategy": "null",
-        "community_code": "null",
-        "fee": "null",
-        "last_day": "null",
-        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=203312223&int_fd=fund:psearch:search_result"
+        "community_code": "03317211",
+        "fee": "1.6445％程度",
+        "last_day": "2039/01/25",
+        "url": "https://site0.sbisec.co.jp//marble/fund/detail/achievement.do?s_rflg=1&Param6=203317211&int_fd=fund:psearch:search_result"
     }
 ]

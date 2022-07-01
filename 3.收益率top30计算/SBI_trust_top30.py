@@ -51,8 +51,8 @@ def from_db_fetch_last_to30(code):
     engine_Lynne_Mons = create_engine('mysql+pymysql://root:123456@localhost:3306/Trust')
 
     df_js_f = pd.read_sql_query('select {0} from SBI_trust_daily_dt; '.format(code), engine_Lynne_Mons)
-    last_one = df_js_f.values.tolist()[-1][0].split()[0]
-    minus30_one = df_js_f.values.tolist()[-11][0].split()[0]
+    last_one = df_js_f.values.tolist()[-10][0].split()[0]
+    minus30_one = df_js_f.values.tolist()[-21][0].split()[0]
     earning_rate =round((int(last_one)-int(minus30_one))/int(minus30_one),4)
     return earning_rate
 
@@ -114,15 +114,19 @@ if __name__== "__main__":
     three_table_title = ["sbi_trust_code", "ER", "title", "fee", "last_day","firm"]
     writeinto_detail("sbi_trust_top30_{0}.csv".format(filename), three_table_title)
 
+    top30_url = []
+
     sbi_trustUrl_top30 = []
     for item in all_result[:30]:
         sbi_trustUrl_top30.append(item[-1])
         print(item[0],item[1],item[2],item[4])
+        top30_url.append(item[-1])
         writeinto_detail("sbi_trust_top30_{0}.csv".format(filename), item[:-1])
     top30_json_list = []
     for json_item in resultjson:
         if json_item["url"] in sbi_trustUrl_top30:
             top30_json_list.append(json_item)
     writeinto_jsonfile("top30_sbi_trust.json",top30_json_list)
+    print(top30_url)
 
 

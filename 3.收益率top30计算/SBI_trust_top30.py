@@ -51,8 +51,8 @@ def from_db_fetch_last_to30(code):
     engine_Lynne_Mons = create_engine('mysql+pymysql://root:123456@localhost:3306/Trust')
 
     df_js_f = pd.read_sql_query('select {0} from SBI_trust_daily_dt; '.format(code), engine_Lynne_Mons)
-    last_one = df_js_f.values.tolist()[-10][0].split()[0]
-    minus30_one = df_js_f.values.tolist()[-21][0].split()[0]
+    last_one = df_js_f.values.tolist()[-19][0].split()[0]
+    minus30_one = df_js_f.values.tolist()[-29][0].split()[0]
     earning_rate =round((int(last_one)-int(minus30_one))/int(minus30_one),4)
     return earning_rate
 
